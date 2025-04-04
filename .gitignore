@@ -2,7 +2,7 @@
 CatandDog/
 
 # Ignore the dataset
-kagglecatsanddogs_5340/
+PetImages/
 
 # Ignore Python cache and compiled files
 __pycache__/
