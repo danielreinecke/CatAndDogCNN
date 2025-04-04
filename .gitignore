@@ -175,3 +175,7 @@ cython_debug/
 
 #venv
 .CatAndDogCNN/
+
+#pickle files
+X.pickle/
+y.pickle/
